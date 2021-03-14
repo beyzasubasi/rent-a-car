@@ -6,7 +6,7 @@
 <?php
 require_once 'baglan.php';
 
-ini_set("display_errors",1);//htaları gilzer
+ini_set("display_errors",1);//hataları gizler
 
 if($_POST["messages"] == "add")
 {
